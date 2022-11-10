@@ -11,13 +11,6 @@ Lauch the webapp
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rahul-dabholkar-data-viz-webapp-app-ri07hx.streamlit.app/)
 
 
-
-
-## Screenshots
-
-![App Screenshot](https://ibb.co/8mCDcHx)
-
-
 ## Run Locally
 
 To recreate this web app on your own computer, do the following.
